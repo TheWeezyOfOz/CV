@@ -1,0 +1,30 @@
+div{
+	border-style: solid;
+	border-width: 1px; 
+	box-sizing: border-box;
+}
+
+#topbar {
+	text-align: center;
+}
+
+#columns{
+	overflow:hidden;
+}
+
+#colone, #colthree{
+	width: 300px;
+	margin: 0;
+}
+
+#colone{
+	float: left;
+}
+
+#colthree{
+	float: right;
+}
+
+#coltwo{
+	margin: 0 300px;
+}
